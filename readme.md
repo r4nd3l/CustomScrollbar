@@ -1,4 +1,5 @@
 Html, Css based Custom Scrollbar website - exercise
+> [Preview](https://r4nd3l.github.io/CustomScrollbar/)
 ---
 
 ![CustomScrollbar](https://github.com/r4nd3l/CustomScrollbar/blob/master/img/sample.gif)
